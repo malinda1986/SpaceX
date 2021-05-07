@@ -24,7 +24,7 @@
     "filereader": "^0.10.3",
     "fs": "0.0.1-security",
     "helmet": "3.4.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "longjohn": "^0.2.12",
     "method-override": "^2.3.9",
     "moment": "^2.20.1",
