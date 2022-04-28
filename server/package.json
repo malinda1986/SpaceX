@@ -6,7 +6,7 @@
   "author": "malinda",
   "private": true,
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "babel-register": "^6.26.0",
     "binary-csv": "^0.2.3",
     "bluebird": "^3.5.1",
