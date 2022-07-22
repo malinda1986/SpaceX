@@ -20,7 +20,7 @@
     "express": "^4.13.4",
     "express-session": "^1.15.3",
     "fast-csv": "^2.4.1",
-    "file-type": "^7.4.0",
+    "file-type": "^16.5.4",
     "filereader": "^0.10.3",
     "fs": "0.0.1-security",
     "helmet": "3.4.0",
