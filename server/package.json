@@ -29,7 +29,7 @@
     "method-override": "^2.3.9",
     "moment": "^2.20.1",
     "mongo-querystring": "^4.1.1",
-    "mongoose": "^4.12.2",
+    "mongoose": "^4.13.21",
     "morgan": "^1.7.0",
     "multer": "^1.4.1",
     "nconf": "0.8.4",
